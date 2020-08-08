@@ -18,6 +18,6 @@ By using SQL and the star scheme, joins and aggregations, the data can be search
 ![er](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/33760/1596767636/Song_ERD.png)
 
 # Files in the repository
-* [create_tables.py](\create_tables.py): Python script to perform SQL-Statements for (re-)creating database and tables
-* [sql_queries.py](\sql_queries.py): Python script containing SQL-Statements used by create_tables.py and etl.py
-* [etl.py](\etl.py): Python script to extract the needed information from Song and Log data inside the data folder and parsing/inserting them to the created database schema and tables
+* [create_tables.py](/create_tables.py): Python script to perform SQL-Statements for (re-)creating database and tables
+* [sql_queries.py](/sql_queries.py): Python script containing SQL-Statements used by create_tables.py and etl.py
+* [etl.py](/etl.py): Python script to extract the needed information from Song and Log data inside the data folder and parsing/inserting them to the created database schema and tables
